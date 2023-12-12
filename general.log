@@ -1,0 +1,30 @@
+2023-12-12 17:30:20,240 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2023-12-12 17:30:21,234 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2023-12-12 17:30:24,560 (WARNING) - django.request - Not Found: /favicon.ico
+2023-12-12 17:30:30,669 (INFO) - playground.views - Calling httpbin
+2023-12-12 17:30:32,948 (CRITICAL) - playground.views - Httpbin is offline
+2023-12-12 17:30:36,478 (INFO) - playground.views - Calling httpbin
+2023-12-12 17:30:41,336 (CRITICAL) - playground.views - Httpbin is offline
+2023-12-12 17:30:57,331 (INFO) - django.utils.autoreload - C:\Users\Asus\Desktop\storefront\playground\views.py changed, reloading.
+2023-12-12 17:30:58,146 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2023-12-12 17:30:58,288 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2023-12-12 17:31:09,027 (INFO) - playground.views - Calling httpbin
+2023-12-12 17:31:11,283 (CRITICAL) - playground.views - Httpbin is offline
+2023-12-12 17:31:45,062 (INFO) - playground.views - Calling httpbin
+2023-12-12 17:31:48,135 (CRITICAL) - playground.views - Httpbin is offline
+2023-12-12 17:33:43,792 (INFO) - playground.views - Calling httpbin
+2023-12-12 17:33:44,310 (CRITICAL) - playground.views - Httpbin is offline
+2023-12-12 17:34:49,508 (INFO) - playground.views - Calling httpbin
+2023-12-12 17:34:53,115 (INFO) - playground.views - Recieved the response
+2023-12-12 17:56:28,194 (INFO) - django.utils.autoreload - C:\Users\Asus\Desktop\storefront\manage.py changed, reloading.
+2023-12-12 17:58:54,777 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2023-12-12 17:58:54,914 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2023-12-12 17:59:45,541 (WARNING) - django.request - Unauthorized: /store/collections/
+2023-12-12 17:59:45,571 (WARNING) - django.request - Forbidden: /store/collections/
+2023-12-12 17:59:45,576 (WARNING) - django.request - Bad Request: /store/collections/
+2023-12-12 18:01:09,540 (INFO) - django.utils.autoreload - C:\Users\Asus\Desktop\storefront\storefront\settings\common.py changed, reloading.
+2023-12-12 18:01:10,368 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2023-12-12 18:01:10,516 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2023-12-12 18:01:13,665 (WARNING) - django.request - Unauthorized: /store/collections/
+2023-12-12 18:01:13,693 (WARNING) - django.request - Forbidden: /store/collections/
+2023-12-12 18:01:13,716 (WARNING) - django.request - Bad Request: /store/collections/
