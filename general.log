@@ -479,3 +479,9 @@ django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
 2023-12-24 20:22:21,985 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
 2023-12-25 23:15:04,390 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
 2023-12-25 23:15:05,761 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2023-12-26 00:19:52,818 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2023-12-26 00:19:53,021 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2023-12-26 00:21:39,657 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2023-12-26 00:21:39,805 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2023-12-26 14:57:51,165 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2023-12-26 14:57:52,652 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
