@@ -642,3 +642,5 @@ django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
 2024-01-04 18:39:21,586 (INFO) - django.utils.autoreload - C:\Users\Asus\Desktop\storefront\store\admin.py changed, reloading.
 2024-01-04 18:39:23,192 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
 2024-01-04 18:39:23,432 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
+2024-01-04 15:27:13,408 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2024-01-04 15:27:13,647 (WARNING) - silk.profiling.profiler - Cannot execute silk_profile as silk is not installed correctly.
